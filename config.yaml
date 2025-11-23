@@ -1,0 +1,57 @@
+categories:
+- description: Restaurants, fast food, food delivery apps, cafes, and dining out.
+  keywords:
+  - swiggy
+  - zomato
+  - starbucks
+  - mcdonalds
+  - saravana bhavan
+  - chai point
+  name: Food & Dining
+- description: Supermarkets, vegetable markets, quick commerce, and daily essentials.
+  keywords:
+  - blinkit
+  - zepto
+  - bigbasket
+  - dmart
+  - reliance fresh
+  - kirana
+  - general store
+  name: Groceries
+- description: Electricity, water, gas, mobile recharge, broadband, and dth bills.
+  keywords:
+  - bescom
+  - tneb
+  - jio
+  - airtel
+  - vodafone
+  - act fiber
+  - mahavitaran
+  name: Utilities
+- description: Fuel, cabs, rideshare, trains, flights, and public transport.
+  keywords:
+  - uber
+  - ola
+  - irctc
+  - indigo
+  - shell
+  - hpcl
+  - metro
+  name: Transportation
+- description: E-commerce, clothing, electronics, and general merchandise.
+  keywords:
+  - amazon
+  - flipkart
+  - myntra
+  - ajio
+  - croma
+  - decathlon
+  name: Shopping
+- description: Movies, streaming services, events, and games.
+  keywords:
+  - bookmyshow
+  - pvr
+  - inox
+  - netflix
+  - hotstar
+  name: Entertainment
